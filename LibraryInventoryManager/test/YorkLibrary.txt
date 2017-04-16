@@ -1,0 +1,9 @@
+Java Programming Languages,53
+A First Course in Database Systems,25
+Introductory Statistics with R,-95
+Java: The Complete Reference Ninth Edition,45
+A First Course in Database Systems (3rd Edition),13
+Elon Musk,12
+Slaughterhouse-Five,29
+Invisible Man,88
+Native Son,30

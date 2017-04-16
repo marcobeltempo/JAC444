@@ -1,0 +1,9 @@
+Database Management Systems,53
+Fundamentals of Database Systems (7th Edition),-55
+Database System Concepts,45
+A First Course in Database Systems (3rd Edition),-20
+Essentials of Database Management,25
+Database Systems Using Oracle (2nd Edition),65
+Database System Concepts,20
+Essentials of Database Management,65
+Elon Musk,12

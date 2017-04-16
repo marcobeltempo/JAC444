@@ -1,0 +1,9 @@
+Cora,34
+Every Tongue Got to Confess,25
+Ghosts,-4
+The Joy Luck Club,13
+A Sea of Troubles,5
+Database System Concepts,20
+Java Programming Languages,75
+Elon Musk,12
+Invisible Man,73

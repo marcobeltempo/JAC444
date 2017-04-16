@@ -1,0 +1,9 @@
+A Sea of Troubles,-10
+Harry Potter and the Sorcerer's Stone,94
+Everything,2
+Harry Potter and the Sorcerer's Stone,4
+Java Programming Languages,20
+Dangerous Games,-1
+Essentials of Database Management,25
+Database System Concepts,45
+A First Course in Database Systems,33
